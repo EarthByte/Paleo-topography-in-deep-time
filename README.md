@@ -5,7 +5,7 @@ Affiliations:
 Frontiers Science Center for Deep Ocean Multispheres and Earth System, Key Lab of Submarine Geosciences and Prospecting Techniques, and College of Marine Geosciences, Ocean University of China, Qingdao 266100, China
 Laboratory for Marine Mineral Resources, Laoshan Laboratory, Qingdao 266100, China
 EarthByte Group, School of Geosciences, The University of Sydney, Sydney, NSW 2006, Australia
-<img width="468" height="317" alt="workflow" src="https://github.com/user-attachments/assets/587b292d-6de5-4531-8c81-21ee46ebfe6a" />
+
 Overview
 This repository contains the main workflow and associated scripts used to generate the box and violin plots presented in the above manuscript.
 It is designed to facilitate data re-examination and reproducibility for reviewers and readers.
