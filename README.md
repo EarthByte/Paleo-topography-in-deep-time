@@ -1,5 +1,5 @@
-Repository for “Recurrent super highlands since 2.1 Ga reveal rhythmic coupling between deep Earth and surface evolution”
-Authors:
+#Repository for “Recurrent super highlands since 2.1 Ga reveal rhythmic coupling between deep Earth and surface evolution”
+##Authors:
 Jianping Zhou<sup>1,2,3</sup>, Ehsan Farahbakhsh<sup>1,2</sup>, Sanzhong Li<sup>1,2</sup>, Yongjiang Liu<sup>1,2</sup>, Guozheng Sun<sup>1,2</sup>, Xianzhi Cao<sup>1,2</sup>, Yanhui Suo<sup>1,2</sup>, and R. Dietmar Müller<sup>3</sup>
 Affiliations:
 Frontiers Science Center for Deep Ocean Multispheres and Earth System, Key Lab of Submarine Geosciences and Prospecting Techniques, and College of Marine Geosciences, Ocean University of China, Qingdao 266100, China
